@@ -14,6 +14,7 @@
     <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Miguel-CSS" height="30" width="35" src="https://www.drupal.org/files/project-images/bootstrap5.jpeg">
     <img align="center" alt="Miguel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Miguel-Js" height="30" width="30" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png">
   </div>
   
   
