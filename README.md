@@ -17,15 +17,13 @@
     <img align="center" alt="Miguel-Js" height="30" width="30" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png">
   </div>
   
-  <div style="display: flex"><br>
-    <a href="mailto:miguellofredo@gmail.com" alt="gmail" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<SEUEMAIL>" />
-    </a>
-    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/miguelangellofredo/" alt="linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://wa.me/557593028437" alt="WhatsApp" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5584981430120"/>
-    </a>
+  ##
+  
+ <div style = "display: inline-block"><br>
+     <a href = "miguellofredo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/miguellofredo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+    <a href="https://www.instagram.com/miguellofredo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+  </div>
   
   
