@@ -16,6 +16,7 @@
     <img align="center" alt="Miguel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Miguel-Js" height="30" width="30" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png">
      <img align="center" alt="Miguel-Js" height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/1260/1260667.png">
+    <img align="center" alt="Miguel-Js" height="30" width="30" src="https://testing-library.com/img/octopus-64x64.png">
   </div>
   
   ##
