@@ -1,4 +1,4 @@
-### Ola 👋, Sou Miguel Angel Lofredo! 
+### Olá 👋, sou Miguel Angel Lofredo! 
 
 <div>
   <a href='https://github.com/miguellofredo85'>
