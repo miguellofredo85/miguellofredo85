@@ -19,7 +19,7 @@
     <img align="center" alt="Miguel-Js" height="30" width="30" src="https://testing-library.com/img/octopus-64x64.png">
      <img align="center" alt="Miguel-Js" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-64/redux-283024.png">
      <img align="center" alt="Miguel-Js" height="50" width="60" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png">
-    <img align="center" alt="Miguel-Js" height="40" width="40" src="https://pngimg.com/uploads/mysql/mysql_PNG35.png">
+    <img align="center" alt="Miguel-Js" height="50" width="60" src="https://pngimg.com/uploads/mysql/mysql_PNG35.png">
   </div>
  
   
