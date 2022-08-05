@@ -20,7 +20,7 @@
      <img align="center" alt="Miguel-Js" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-64/redux-283024.png">
      <img align="center" alt="Miguel-Js" height="50" width="60" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png">
     <img align="center" alt="Miguel-Js" height="50" width="60" src="https://pngimg.com/uploads/mysql/mysql_PNG35.png">
-    ![image](https://user-images.githubusercontent.com/90476565/183128959-8772b9f6-14c0-4304-be97-b6c559dc477d.png)
+    <img align="center" alt="Miguel-Js" height="50" width="60" src="https://innovationyourself.com/wp-content/uploads/2020/08/nodejs-logo-752x440.png">
 
   </div>
  
