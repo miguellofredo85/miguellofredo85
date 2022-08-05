@@ -21,10 +21,8 @@
      <img align="center" alt="Miguel-Js" height="50" width="60" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png">
     <img align="center" alt="Miguel-Js" height="50" width="60" src="https://pngimg.com/uploads/mysql/mysql_PNG35.png">
     <img align="center" alt="Miguel-Js" height="40" width="50" src="https://innovationyourself.com/wp-content/uploads/2020/08/nodejs-logo-752x440.png">
-
+    <img align="center" alt="Miguel-Js" height="40" width="50" src="https://res.cloudinary.com/practicaldev/image/fetch/s--vlyOpo-R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/cvbwqb13ovxfjsel8du2.png">
   </div>
- 
-  
   ##
   
  <div style = "display: inline-block"><br>
