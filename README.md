@@ -22,7 +22,6 @@
     <img align="center" alt="Miguel-Js" height="40" width="50" src="https://innovationyourself.com/wp-content/uploads/2020/08/nodejs-logo-752x440.png">
     <img align="center" alt="Miguel-Js" height="40" width="50" src="https://res.cloudinary.com/practicaldev/image/fetch/s--vlyOpo-R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/cvbwqb13ovxfjsel8du2.png">
   </div>
-  ##
   
  <div style = "display: inline-block"><br>
     <a href="https://www.linkedin.com/in/miguelangellofredo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
