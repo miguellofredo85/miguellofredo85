@@ -26,6 +26,5 @@
  <div style = "display: inline-block"><br>
     <a href="https://www.linkedin.com/in/miguelangellofredo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   </div>
-   <script src="https://tryhackme.com/badge/986085"></script>
-  
+ <img src="https://tryhackme-badges.s3.amazonaws.com/cangel1985.png" alt="TryHackMe">
   
