@@ -1,6 +1,8 @@
 ### Hi 👋, i'm Miguel Angel Lofredo, Full Stack Web Developer and Pentester student! 
 
-#### Full Stack Web Development - Trybe (currently attending) The program has more than 1,500 hours of classes and covers introduction to software development, front-end and back-end, computer science, software engineering, agile methodologies and behavioral skills.
+#### - [X] - _Full Stack Web Development_  Trybe (currently attending) The program has more than 1,500 hours of classes and covers introduction to software development, front-end and back-end, computer science, software engineering, agile methodologies and behavioral skills.
+
+#### - [x] -  I currently count on the Red Team Path and Offensive Pentester certificates from the Try Hack Me (https://tryhackme.com/p/cangel1985) platform with over 160 rooms made. I also have studies and certifications at TCM Security Inc.(https://academy.tcm-sec.com) of PEH, Pivoting, Malware Analysis, Privilege Escalation on Windows and Linux.
 
 <div>
   <a href='https://github.com/miguellofredo85'>
@@ -45,6 +47,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a> 
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 </div>
   
  <div style = "display: inline-block"><br>
