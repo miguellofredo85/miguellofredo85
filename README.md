@@ -1,4 +1,6 @@
-### Olá 👋, sou Miguel Angel Lofredo! 
+### Hi 👋, i'm Miguel Angel Lofredo, Full Stack Web Developer and Pentester student! 
+
+#### Full Stack Web Development - Trybe (currently attending) The program has more than 1,500 hours of classes and covers introduction to software development, front-end and back-end, computer science, software engineering, agile methodologies and behavioral skills.
 
 <div>
   <a href='https://github.com/miguellofredo85'>
