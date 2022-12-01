@@ -44,4 +44,5 @@
  <div style = "display: inline-block"><br>
     <a href="https://www.linkedin.com/in/miguelangellofredo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   </div>
+<div>https://user-images.githubusercontent.com/90476565/205135031-79ae9d27-c70c-42c9-b1c7-067359f17b83.png</div>
 
