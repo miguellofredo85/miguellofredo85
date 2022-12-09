@@ -39,6 +39,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a> 
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+    
+![c-logo-icon-28402](https://user-images.githubusercontent.com/90476565/206595349-921aa14b-bcdf-4c94-9346-2eab656a2f01.png)
+
 </div>
   
  <div style = "display: inline-block"><br>
