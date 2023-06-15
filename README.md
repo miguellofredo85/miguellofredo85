@@ -15,9 +15,14 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.png" alt="tailwindcss" width="70" height="40"/>
   </a> 
+    
+ <a href="https://bootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://clipground.com/images/clipart-bootstrap.jpg" alt="bootstrap" width="60" height="40"/>
+  </a> 
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -36,14 +41,21 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
     </a>
     <a href="https://mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://whatpixel.com/images/2017/05/00-mongodb-logo.jpg" width="36" height="36" alt="Express" />
+      <img src="https://whatpixel.com/images/2017/05/00-mongodb-logo.jpg" width="36" height="36" alt="Mongo" />
     </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
   </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Cloud_logo.svg/768px-Google_Cloud_logo.svg.png?20210208232155" alt="google cloud" width="90" height="30"/>
+ <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.agiratech.com/wp-content/uploads/2019/08/Jest.png" width="40" height="40" alt="Jest" />
   </a>
+  
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--MBjOQMia--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/y42w3fod3e7lda0sueg0.png" width="100" height="40" alt="Mocha" />
+
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_168209.png" alt="firebase" width="70" height="40"/>
+  </a>
+  
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
@@ -59,5 +71,7 @@
 </div>
   
  <div style = "display: inline-block"><br>
-    <a href="https://www.linkedin.com/in/miguelangellofredo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+    <a href="https://www.linkedin.com/in/miguelangellofredo/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>   
   </div>
