@@ -29,10 +29,15 @@
     <img src="https://buttercms.com/static/images/tech_banners/Nextjs.b8a717322c08.png" alt="next" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://whatpixel.com/images/2017/05/00-mongodb-logo.jpg
-" width="36" height="36" alt="Express" /></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+    <a href="" target="_blank" rel="noreferrer">
+      <img src="https://whatpixel.com/images/2017/05/00-mongodb-logo.jpg" width="36" height="36" alt="Express" />
+    </a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+  </a>
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
+    </a>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://pluspng.com/img-png/google-cloud-logo-png-google-cloud-logo-evolution-history-and-meaning-png-1280x720.png
 " alt="google cloud" width="40" height="40"/>
