@@ -42,8 +42,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
   </a>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://pluspng.com/img-png/google-cloud-logo-png-google-cloud-logo-evolution-history-and-meaning-png-1280x720.png
-" alt="google cloud" width="40" height="40"/>
+    <img src="https://www.pinclipart.com/picdir/middle/76-766456_google-cloud-google-cloud-logo-svg-clipart.png" alt="google cloud" width="40" height="40"/>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
