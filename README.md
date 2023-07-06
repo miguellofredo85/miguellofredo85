@@ -9,6 +9,8 @@
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguellofredo85&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguellofredo85&layout=compact&langs_count=16&theme=dark"/>
 </div>
+
+### Full Stack knowledge
   
   <div style="display: inline_block">
 <br>
@@ -67,9 +69,18 @@
   </a> 
    
 </div>
-  
- <div style = "display: inline-block"><br>
+
+  ### Currently learning
+<a href="https://developer.android.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.ambient-it.net/wp-content/uploads/2017/08/Kotlin-Android-Logo.png" alt="docker" width="40" height="60"/>
+  </a>
+<a href="https://developer.android.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://agap2-it.pt/media/2cqnclhd/android_java.png" alt="docker" width="90" height="65"/>
+  </a>
+
+   <div style = "display: inline-block"><br>
     <a href="https://www.linkedin.com/in/miguelangellofredo/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>   
   </div>
+  
