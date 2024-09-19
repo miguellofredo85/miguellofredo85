@@ -1,5 +1,5 @@
-### Hi 👋, i'm Miguel Angel Lofredo, Web Developer with 
-<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> ecosystem! 
+### Hi 👋, i'm Miguel Angel Lofredo, Web Developer with ecosystem
+<img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 ####  Currently C++ student from Udemy course "The C++20 Masterclass : From Fundamentals to Advanced"
 
