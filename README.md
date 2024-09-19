@@ -1,4 +1,6 @@
-### Hi 👋, i'm Miguel Angel Lofredo, Full Stack Web Developer with JS, React and Node! 
+### Hi 👋, i'm Miguel Angel Lofredo, Web Developer with 
+<i class="devicon-javascript-plain colored"></i>
+ecosystem! 
 
 ####  Currently C++ student from Udemy course "The C++20 Masterclass : From Fundamentals to Advanced"
 
