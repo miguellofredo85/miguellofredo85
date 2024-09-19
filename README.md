@@ -1,7 +1,7 @@
 ### Hi 👋, i'm Miguel Angel Lofredo, Full Stack Web Developer and Pentester student! 
 
-####  Currently C++ student from Udemy course "The C++20 Masterclass : From Fundamentals to Advanced
-"
+####  Currently C++ student from Udemy course "The C++20 Masterclass : From Fundamentals to Advanced"
+
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
           
 #### C++ 20
