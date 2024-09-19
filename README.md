@@ -1,4 +1,4 @@
-### Hi 👋, i'm Miguel Angel Lofredo, Full Stack Web Developer and Pentester student! 
+### Hi 👋, i'm Miguel Angel Lofredo, Full Stack Web Developer with JS, React and Node! 
 
 ####  Currently C++ student from Udemy course "The C++20 Masterclass : From Fundamentals to Advanced"
 
